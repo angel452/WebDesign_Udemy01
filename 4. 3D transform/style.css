@@ -6,9 +6,13 @@ div{
 }
 
 div#div1{
-    transform: rotate(20deg);
+    transform: rotateX(150deg);
 }
 
 div#div2{
-    transform: skew(20deg)
+    transform: rotateY(150deg);
+}
+
+div#div3{
+    transform: rotateZ(150deg);
 }
